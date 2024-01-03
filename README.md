@@ -2,7 +2,7 @@
 ## Machine Learning Parameters on Blockchain
 
 ### Summary:
-This project demonstrates a simplified implementation of blockchain technology to store the parameters of a simplified machine learning model. It comprises classes for blocks in the blockchain, cryptographic hashing, blockchain validation, and a simulation in Java. The parameters (x1, x2, and c) of a linear equation y = a * x1 + b * x2 + c are represented in the blocks, forming a chain with references to previous blocks' hashes.
+This project demonstrates a simplified implementation of blockchain technology to store the parameters of a simplified machine-learning model. It comprises classes for blocks in the blockchain, cryptographic hashing, blockchain validation, and a simulation in Java. The parameters (x1, x2, and c) of a linear equation `y = a * x1 + b * x2 + c` are represented in the blocks, forming a chain with references to previous blocks' hashes.
 
 ### Objective:
 The objective is to explore blockchain as a secure means to store machine learning model parameters.
